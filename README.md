@@ -27,7 +27,7 @@ Furthermore, this workshop will cover informatics and standardization techniques
 - Wearable sensors for COVID-19 detection
 - Distributed computing for crowdsourcing and accelerating COVID-19 research
 
-## Committees
+## Committee
 
 ### Chairs
 -	**Dominique Duncan**: University of Southern California
