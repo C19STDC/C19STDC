@@ -10,7 +10,7 @@
 **Co-located with [DCOSS 2022](https://dcoss.org/)**
 {: style="text-align: center"}
 
-**Click here for submission link**
+**Submission link TBA**
 {: style="text-align: center"}
 
 ## Scope
