@@ -52,5 +52,5 @@ Furthermore, this workshop will cover informatics and standardization techniques
 
 
 ## Additional Information
-Publicity via the [COVID-19 Data Archive (COVID-ARC) website](https://covid-arc.loni.usc.edu/) and the Covid Information Commons.
+Publicity via the [COVID-19 Data Archive (COVID-ARC) website](https://covid-arc.loni.usc.edu/). 
 {: style="text-align: justify"}
