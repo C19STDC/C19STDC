@@ -10,7 +10,7 @@
 **Co-located with [DCOSS 2022](https://dcoss.org/)**
 {: style="text-align: center"}
 
-**Submission link TBA**
+**Click [here](https://easychair.org/conferences/?conf=c19stdc2022) for submission link**
 {: style="text-align: center"}
 
 ## Scope
