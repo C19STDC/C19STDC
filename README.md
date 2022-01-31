@@ -27,16 +27,10 @@ Furthermore, this workshop will cover informatics and standardization techniques
 - Wearable sensors for COVID-19 detection
 - Distributed computing for crowdsourcing and accelerating COVID-19 research
 
-## Committee
-
-### Chairs
+## Chairs
 -	**Dominique Duncan**, University of Southern California
 -	**Albert Hsiao**, University of California San Diego
 -	**Michael Pazzani**, University of Southern California
-
-### Co-Chairs
-- **Enrico Natalizio**, Technology Innovation Institute 
-- **Simone Silvestri**, University of Kentucky
 
 ## Planned Format of the Workshop
 10 papers, 2 keynotes (other papers will be shorter talks), selection of papers via both invitation and open call
