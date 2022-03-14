@@ -43,7 +43,7 @@ This workshop will cover a number of aspects related to the COVID-19 pandemic. T
 - **Abstract Submission**: TBA
 - **Paper Submission**: April 8, 2022
 - **Acceptance Notification**: TBA
-- **Camera Ready**: April 18, 2022
+- **Camera Ready**: April 29, 2022
 - **Early Registration**: TBA
 - **Workshop Day**: TBA
 
