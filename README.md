@@ -32,8 +32,6 @@ This workshop will cover a number of aspects related to the COVID-19 pandemic. T
 
 ## Chairs
 -	**Dominique Duncan**, University of Southern California
--	**Albert Hsiao**, University of California San Diego
--	**Michael Pazzani**, University of Southern California
 
 ## Planned Format of the Workshop
 10 papers, 2 keynotes (other papers will be shorter talks), selection of papers via both invitation and open call
