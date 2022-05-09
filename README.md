@@ -32,6 +32,7 @@ This workshop will cover a number of aspects related to the COVID-19 pandemic. T
 
 ## Chairs
 -	**Dominique Duncan**, University of Southern California
+-	**Celina Alba**, University of Southern California
 
 ## Planned Format of the Workshop
 10 papers, 2 keynotes (other papers will be shorter talks), selection of papers via both invitation and open call
@@ -42,8 +43,8 @@ This workshop will cover a number of aspects related to the COVID-19 pandemic. T
 - **Paper Submission**: April 15, 2022
 - **Acceptance Notification**: TBA
 - **Camera Ready**: April 29, 2022
-- **Early Registration**: TBA
-- **Workshop Day**: TBA
+- **Early Registration**: May 13, 2022
+- **Workshop Day**: June 1, 2022
 
 
 ## Additional Information
