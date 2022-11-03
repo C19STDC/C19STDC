@@ -1,13 +1,13 @@
-# Novel Methods to Study COVID-19 Using Sensor Technology and Distributed Computing 2022
+# Novel Methods to Study COVID-19 Using Sensor Technology and Distributed Computing 2023
 {: style="text-align: center"}
 
-**Marina del Rey, LA, California, US**
+**Coral Bay, Pafos, Cyprus**
 {: style="text-align: center"}
 
-**May 30 - June 1, 2022**
+**June 19-21, 2023**
 {: style="text-align: center"}
 
-**Co-located with [DCOSS 2022](https://dcoss.org/)**
+**Co-located with [DCOSS 2023](https://dcoss.org/)**
 {: style="text-align: center"}
 
 **Click [here](https://easychair.org/conferences/?conf=c19stdc2022) for submission link**
@@ -39,12 +39,12 @@ This workshop will cover a number of aspects related to the COVID-19 pandemic. T
 {: style="text-align: justify"}
 
 ## Important Dates
-- **Abstract Submission**: TBA
-- **Paper Submission**: April 15, 2022
-- **Acceptance Notification**: TBA
-- **Camera Ready**: April 29, 2022
-- **Early Registration**: May 13, 2022
-- **Workshop Day**: June 1, 2022
+- **Abstract Submission**: January 30, 2023
+- **Paper Submission**: February 6, 2023
+- **Acceptance Notification**: April 7, 2023
+- **Camera Ready**: April 28, 2023
+- **Early Registration**: TBA
+- **Workshop Day**: TBA
 
 
 ## Additional Information
